@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Clean Water Changes Everything</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <!-- HERO SECTION -->
+  <section class="hero">
+    <div class="overlay"></div>
+    <div class="hero-content">
+      <h1>Clean Water Changes Everything</h1>
+      <p>Access to safe water transforms lives, empowers communities, and creates a brighter future for every child.</p>
+      <a href="#donate" class="btn">Donate Now</a>
+    </div>
+  </section>
+
+  <!-- ABOUT SECTION -->
+  <section class="about">
+    <div class="container">
+      <h2>Our Mission</h2>
+      <p>
+        Every day, millions of students face the challenge of studying without clean water. 
+        Our mission is to bring clean, safe drinking water to schools and communities 
+        so children can focus on learning — not survival.
+      </p>
+    </div>
+  </section>
+
+  <!-- CALL TO ACTION -->
+  <section class="cta" id="donate">
+    <h2>Your help makes the difference</h2>
+    <p>Join us in making clean water a reality for everyone.</p>
+    <a href="#" class="btn">Get Involved</a>
+  </section>
+
+  <footer>
+    <p>© 2025 Water For Change Initiative</p>
+  </footer>
+</body>
+</html>
